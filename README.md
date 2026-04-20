@@ -2,7 +2,7 @@
   <img height="150" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"  />
 </div>
 
-##
+###
 
 <div align="center"> 
   
@@ -15,7 +15,6 @@
   </a> 
   
 </div>
-###
 
 <h1 align="center"> Hey! I’m Flávia — Software Engineering student✨</h1>
 
@@ -26,7 +25,6 @@
 ###
 
 <p align="left">
-  - Software Engineering student <br>
   - Learning something new every day <br>
   - Powered by coffee and rock! <br>
   - Open to beginner projects <br>
